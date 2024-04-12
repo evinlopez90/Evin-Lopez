@@ -1,7 +1,7 @@
 export const myProjects = [
   {
     projectTitle: "TranslateApp",
-    imgPath:  './images/TranslateApp.png',
+    imgPath:  'https://i.ibb.co/qr9wCBk/Translate-App.png',
     category: ["vue"],
     skill: [
       'https://cdn.icon-icons.com/icons2/2415/PNG/96/react_original_logo_icon_146374.png',
@@ -12,7 +12,7 @@ export const myProjects = [
   },
   {
     projectTitle: "Simple Coffee",
-    imgPath:  './images/proyect3.png',
+    imgPath:  'https://i.ibb.co/48gYbRf/proyect3.png',
     category: ["react"],
     skill: [
       'https://cdn.icon-icons.com/icons2/2415/PNG/96/react_original_logo_icon_146374.png',
@@ -23,7 +23,7 @@ export const myProjects = [
   },
   {
     projectTitle: "Recetas",
-    imgPath: './images/foot2.png',
+    imgPath: 'https://i.ibb.co/4WW49rG/foot2.png',
       category: ["vue"],
       github: 'https://github.com/evinlopez90/recetas.git',
       deploy: 'https://recetas-rdgn.vercel.app/'
@@ -31,7 +31,7 @@ export const myProjects = [
   },
   {
     projectTitle: "Instachef",
-    imgPath: './images/foot1.png',
+    imgPath: 'https://i.ibb.co/FB2MWnJ/foot1.png',
     category: ["full stack"],
       github: 'https://github.com/FrancoInca/InstaChef-Front.git',
       deploy: 'https://insta-chef.vercel.app/'
