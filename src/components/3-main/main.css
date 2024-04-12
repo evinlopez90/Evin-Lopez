@@ -78,6 +78,8 @@ main section.right-section.flex {
 
 .card .box {
   padding: 1rem 0.4rem;
+  display: flex; 
+  justify-content: space-between;
 }
 
 .card .box .title {
