@@ -7,8 +7,6 @@ import { useEffect, useState } from "react";
 import Teg from "./components/Skill/Teg";
 
 
-
-
 function App() {
   useEffect(() => {
     window.addEventListener("scroll", () => {
